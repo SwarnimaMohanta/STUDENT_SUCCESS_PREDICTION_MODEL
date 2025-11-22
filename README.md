@@ -125,8 +125,8 @@ Study Time: >10 hrs
 
 Alcohol Consumption: Low
 
-Output: → Success Probability: 98.4% → Prediction: ✅ PASS → Insight: Strong past performance and low absences drive this result.
-
+Output: → Success Probability: 98.4% → Prediction: ✅ PASS → Insight: Strong past performance and low absences drive this result.<br>
+<img src="assets/pass.png" alt="Description" width="600"><br>
 
 <h2>The "At-Risk" Student</h2> Input:
 
@@ -140,8 +140,8 @@ Study Time: <2 hrs
 
 Alcohol Consumption: High
 
-Output: → Success Probability: 12.5% → Prediction: ❌ FAIL → Insight: Warning triggered. Recommended for immediate counseling.
-
+Output: → Success Probability: 12.5% → Prediction: ❌ FAIL → Insight: Warning triggered. Recommended for immediate counseling.<br>
+<img src="assets/fail.png" alt="Description" width="600"><br>
 
 <h2>The "Borderline" Case</h2>
 
