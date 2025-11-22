@@ -1,0 +1,10 @@
+#Python specific
+
+pycache/
+*.pyc
+
+#Virtual Environments (You named yours 'stuenv')
+
+stuenv/
+venv/
+env/
